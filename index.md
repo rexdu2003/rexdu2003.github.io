@@ -27,7 +27,8 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Self-supervised Learning
+- Self-supervised Learning Theory
+  - Contrastive Learning
   - Masked Image Modeling
 - In-context Learning
 
