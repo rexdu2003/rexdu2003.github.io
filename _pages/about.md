@@ -38,6 +38,7 @@ I have published multiple papers at different international conferences with tot
 If you wish to access my personal homepage before 2024, please click [here](https://zhang-yihao.github.io/oldsite). [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fzhang-yihao.github.io&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Website+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉 Our paper, [Boosting jailbreak attack with momentum](https://arxiv.org/pdf/2405.01229) is accepted as an **Oral Paper** in ICASSP 2025.
 - *2024.12*: &nbsp;🎉 2 Papers (as first author and second-to-last author, respectively) accepted by ICASSP.
 - *2024.11*: &nbsp;✈️ We presented [our paper](https://arxiv.org/pdf/2404.13752) in NeurIPS 2024 main conference (poster).
 - *2024.10*: &nbsp;🎉 We presented [our paper](https://arxiv.org/pdf/2402.15152) in 2nd Frontier Ph.D Forum hosted in Peking University.
@@ -85,6 +86,18 @@ Since the development of Large Language Models (LLMs) has achieved remarkable su
 # Other Publications
 (*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
+## Boosting jailbreak attack with momentum (ICASSP 2025 Oral, ICLR 2024 R2-FM Workshop)
+
+**Yihao Zhang**\*, Zeming Wei\*${}^\dagger$
+
+[[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
+
+## Exploring the robustness of in-context learning with noisy labels (ICASSP 2025, ICLR 2024 R2-FM Workshop)
+
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, **Yihao Zhang**, Zeming Wei${}^\dagger$
+
+[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
+
 ## Automata Extraction from Transformers (Preprint)
 
 **Yihao Zhang**, Zeming Wei, Meng Sun${}^\dagger$
@@ -114,18 +127,6 @@ Zeming Wei\*${}^\dagger$, Jingyu Zhu\*, **Yihao Zhang**\*
 **Yihao Zhang**, Zeming Wei, Xiyue Zhang, Meng Sun${}^\dagger$
 
 [[pdf](https://arxiv.org/pdf/2304.10558)] [[arxiv](https://arxiv.org/abs/2304.10558)] [[code](https://github.com/weizeming/Z3_for_Verification_of_FNN_Global_Robustness)]
-
-## Boosting jailbreak attack with momentum (ICLR 2024 R2-FM Workshop)
-
-**Yihao Zhang**\*, Zeming Wei\*${}^\dagger$
-
-[[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
-
-## Exploring the robustness of in-context learning with noisy labels (ICLR 2024 R2-FM Workshop)
-
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, **Yihao Zhang**, Zeming Wei${}^\dagger$
-
-[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
 
 ## Weighted automata extraction and explanation of recurrent neural networks for natural language tasks (JLAMP, Vol 136)
 
