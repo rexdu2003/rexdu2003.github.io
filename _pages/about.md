@@ -17,25 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yihao Zhang (张益豪), a First-Year Applied Mathematics PhD at the School of Mathematical Sciences, Peking University. I am currently conducting research under the guidance of Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html) and am a part of his research group.
-
-I got my bachelor's degree (Data Science, Math) from Peking University in 2024. I served as a visiting research assistant at Singapore Management University, from October 2023 to May 2024. My supervisor at Singapore Management University is [Jun Sun](https://sunjun.site/).
+I am Tianqi Du (杜天祺), a Third-Year PhD majoring in Computer Science and technology at the School of Intelligence Science and Technology, Peking University. I am currently conducting research under the guidance of Professor [Yisen Wang](https://yisenwang.github.io/) and am a part of his research group. I got my bachelor's degree (Data Science, Math) from Peking University in 2023. 
 
 My research interests include:
-- Safety, Interpretability and Social Value for Large Language Model-based Agents **(Currently Focusing On)**
-- Mechanistic Interpretability for Large Language Models **(Currently Focusing On)**
-- Causality in AI, Formalization and Verification of Causality-Related Issues **(Currently Focusing On)**
-- Large Language Model Alignment, Trustworthy LLM
-- Representation Engineering in LLM
-- AI Safety, Verifying Robustness/Fairness/Trustworthy Related Issues in AI
-- Automated Interactive Theorem Proving, AI4ITP
-- Formal Methods, Model Checking, Software Analysis, Program Verification
-- Formalizing and Verifying Quantum Computation Systems and Quantum AI Systems
-- Testing Technologies for AI System
+- Reasoning in LLM **(Currently Focusing On)**
+- High-efficiency Module Design in LLM **(Currently Focusing On)**
+- Representation Learning in LLM **(Currently Focusing On)**
+- Self-supervised Learning
+- Generative Model
 
-I have published multiple papers at different international conferences with total google scholar <a href='https://scholar.google.com/citations?user=9lALkz8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published multiple papers at different international conferences with total google scholar <a href='https://scholar.google.com/citations?user=nQjREpoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-If you wish to access my personal homepage before 2024, please click [here](https://zhang-yihao.github.io/oldsite). [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fzhang-yihao.github.io&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Website+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉 Our paper, [Boosting jailbreak attack with momentum](https://arxiv.org/pdf/2405.01229) is accepted as an **Oral Paper** in ICASSP 2025.
