@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<span class='show_paper_citations' data='nQjREpoAAAAJ'></span>
+
 I am Tianqi Du (杜天祺), a Third-Year PhD majoring in Computer Science and technology at the School of Intelligence Science and Technology, Peking University. I am currently conducting research under the guidance of Professor [Yisen Wang](https://yisenwang.github.io/) and am a part of his research group. I got my bachelor's degree (Data Science, Math) from Peking University in 2023. 
 
 My research interests include:
