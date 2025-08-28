@@ -30,7 +30,7 @@ I have published multiple papers at different international conferences with tot
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉 Our paper, [Boosting jailbreak attack with momentum](https://arxiv.org/pdf/2405.01229) is accepted as an **Oral Paper** in ICASSP 2025.
+- *2025.05*: &nbsp;🎉 Our paper, [Long-Short Alignment for Effective Long-Context Modeling in LLMs](https://arxiv.org/pdf/2506.11769) is accepted by ICML 2025.
 - *2024.12*: &nbsp;🎉 2 Papers (as first author and second-to-last author, respectively) accepted by ICASSP.
 - *2024.11*: &nbsp;✈️ We presented [our paper](https://arxiv.org/pdf/2404.13752) in NeurIPS 2024 main conference (poster).
 - *2024.10*: &nbsp;🎉 We presented [our paper](https://arxiv.org/pdf/2402.15152) in 2nd Frontier Ph.D Forum hosted in Peking University.
