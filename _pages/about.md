@@ -54,8 +54,8 @@ I have published multiple papers at different international conferences with tot
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/SAMAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## On the Duality Between Sharpness-Aware Minimization and Adversarial Training (ICML 2024)
-**Yihao Zhang**\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, Zeming Wei${}^\dagger$
+## Long-Short Alignment for Effective Long-Context Modeling in LLMs (ICML 2025)
+**Tianqi Du**\*, Haotian Huang\*, Yifei Wang, Yisen Wang${}^\dagger$
 
 Adversarial Training (AT), which adversarially perturb the input samples during training, has been acknowledged as one of the most effective defenses against adversarial attacks, yet suffers from a fundamental tradeoff that inevitably decreases clean accuracy. Instead of perturbing the samples, Sharpness-Aware Minimization (SAM) perturbs the model weights during training to find a more flat loss landscape and improve generalization. However, as SAM is designed for better clean accuracy, its effectiveness in enhancing adversarial robustness remains unexplored. In this work, considering the duality between SAM and AT, we investigate the adversarial robustness derived from SAM. Intriguingly, we find that using SAM alone can improve adversarial robustness. To understand this unexpected property of SAM, we first provide empirical and theoretical insights into how SAM can implicitly learn more robust features, and conduct comprehensive experiments to show that SAM can improve adversarial robustness notably without sacrificing any clean accuracy, shedding light on the potential of SAM to be a substitute for AT when accuracy comes at a higher priority. Code is available at [this https URL](https://github.com/weizeming/SAM_AT).
 
