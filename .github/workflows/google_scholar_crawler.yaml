@@ -3,6 +3,7 @@ name: Get Citation Data
 
 on: 
  page_build: 
+ workflow_dispatch:
  schedule:
   - cron:  '0 8 * * *'
 
