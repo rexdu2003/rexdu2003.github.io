@@ -26,7 +26,7 @@ My research interests include:
 - Self-supervised Learning
 - Generative Model
 
-I have published multiple papers at different international conferences with total google scholar <a href='https://scholar.google.com/citations?user=nQjREpoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=<span class='show_paper_citations' data='nQjREpoAAAAJ'></span>"></a>.
+I have published multiple papers at different international conferences with total google scholar <a href='https://scholar.google.com/citations?user=nQjREpoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citation"></a>.
 
 
 # 🔥 News
